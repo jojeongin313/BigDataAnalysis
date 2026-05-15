@@ -1,6 +1,6 @@
-# [기본 프롬포트]
+[기본 프롬포트]
 
-```python
+
 FEWSHOT_PROMPT_TEMPLATE = (
     "You are a web security expert. "
     "Classify each HTTP request as 'Normal' or 'Anomalous'. "
